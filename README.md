@@ -14,4 +14,4 @@
 <img src='resources/img2.png'>
 
 **To pull docker image**
-`docker pull h4ck3rd33p/employee-management-flask-app:emp-mgmt-flask-app`
+`docker pull manyabm/restuarant_management_flask_app:res-mgmt-flask-app`
